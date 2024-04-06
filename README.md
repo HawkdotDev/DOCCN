@@ -24,7 +24,7 @@ To get started with DOCCN, follow these steps:
 
 We welcome contributions from the community to help improve and enhance DOCCN. If you'd like to contribute, please follow these guidelines:
 
-- Fork the repository and create a new branch for your feature or bug fix.
+- Clone the repository and create a new branch for your feature or bug fix.
 - Make your changes and ensure that the code passes all tests.
 - Submit a pull request with a clear description of your changes and the problem they solve.
 
